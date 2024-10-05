@@ -1,7 +1,14 @@
 Assignment 4
 Leaflet Web Map
 Author: Amanda Norton
-A map showing real-time weather radar and alerts from the National Weather Service.
-https://sophie8910.github.io/LeafletWebMap/weather/
 
-Another map showing earthquakes from USGS.
+Weather Map:
+file:///C:/Users/anorton3/Desktop/Assingment4/LeafletDemo/demo/windex.html
+
+
+Earthquake Map: 
+file:///C:/Users/anorton3/Desktop/Assingment4/LeafletDemo/demo/eindex.html
+
+
+Index Map:
+file:///C:/Users/anorton3/Desktop/Assingment4/LeafletDemo/demo/index.html
